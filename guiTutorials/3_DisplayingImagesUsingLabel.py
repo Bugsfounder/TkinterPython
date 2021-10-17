@@ -1,17 +1,18 @@
 from tkinter import *
-import tkinter
+from tkinter.font import BOLD
 
 root = Tk()
+root.title('Manisha The Genius')
 
-root.geometry("600x500")
+root.geometry("700x500")
+root.minsize(500,400)
 
-image = tkinter.Image(name='owner.png', imgtype='photo', height=500, width=500)
+imageManisha = PhotoImage(file='owner.png')
+imageManishaLabel = Label(image=imageManisha)
+imageManishaLabel.pack(pady=20)
 
-manisha = Label(text='Manisha is a Genius Girl', font=('Monospace', 25))
-manisha.pack(padx=20,pady=78)
-
-
+manisha = Label( text = 'Manisha is a Genius Girl', font=("Monospace", 30, BOLD))
+manisha.pack()
 
 
 root.mainloop()
-
