@@ -3,7 +3,10 @@ from tkinter import font
 
 
 def getVals():
-    print("It Works")
+    print("Submitting Form")
+    with   open('records.txt', 'a') as f:
+        f.write(f"{nameValue.get()}, {phoneValue.get()}, {genderValue.get()}, {emergencyContactValue.get()}, {paymentModeValue.get()}, {foodServiceValue.get()}\n")
+
 
 root = Tk()
 

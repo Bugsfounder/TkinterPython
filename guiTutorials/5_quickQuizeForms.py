@@ -7,6 +7,7 @@ def submitForm():
             form.write(formText)
     except Exception as error:
         print("Form has not been submitted for some reson please try again.")
+        
 # GUI Starts here 
 root = Tk()
 root.geometry('600x500')

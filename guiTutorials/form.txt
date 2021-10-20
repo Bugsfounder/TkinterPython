@@ -1,25 +1,19 @@
-
-Username: Kaushal
-Email: kaushal@kaushal.com
-Phone Number: 234234
-Password: manisha
-
-
-Username: Kaushal
-Email: kaushal@kaushal.com
-Phone Number: 234234
-Password: manisha
+Username: Manisha
+Email: manisha@manisha.com
+Phone Number: 134324234
+Password: passwordisthebest
 
 
-Username: Kaushal
-Email: kaushal@kaushal.com
-Phone Number: 234234
-Password: manisha
+Username: Manisha
+Email: manisha@manisha.com
+Phone Number: 134324234
+Password: passwordisthebest
 
 
-Username: Kaushal
-Email: kaushal@kaushal.com
-Phone Number: 234234
-Password: manisha
+Username: Aryan
+Email: aryan@aryan.com
+Phone Number: 324234
+Password: manishaisagenius
+
 
 
