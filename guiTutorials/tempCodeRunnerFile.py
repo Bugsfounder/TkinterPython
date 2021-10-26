@@ -1,1 +1,1 @@
-textColor
+sqlQuery
